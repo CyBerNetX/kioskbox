@@ -22,7 +22,7 @@ Prérequis logiciel :
       defini le user pi avec le mot de passe : "jxTcrbSs"
  	- a vous de le changer
  - creer le fichier /boot/firmeware/wpa_supplicant.conf
-'''
+```
 country=fr
 update_config=1
 ctrl_interface=/var/run/wpa_supplicant
@@ -33,5 +33,6 @@ network={
  psk="Pa55w0rd1234"
 }
 
-'''
+```
+
 
